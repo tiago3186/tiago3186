@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Tiago, a software developer from Curitiba, PR, Brazil.
 
 
